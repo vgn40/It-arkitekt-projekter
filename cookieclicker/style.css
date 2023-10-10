@@ -1,0 +1,30 @@
+* {
+    margin-left: auto;
+    margin-right: auto}
+
+#cookie {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transition: transform 0.1s;
+}
+
+.animate-cookie {
+    transform: scale(1.2);
+}
+
+#score {display: block;
+    margin-left: auto;
+    margin-right: auto;}
+
+.text{display: block;
+    margin-left: auto;
+    margin-right: auto;
+text-align: center}
+
+#score{text-align: center;
+        margin-top: 100px;}
+
+#btn{display: block;
+    margin-left: auto;
+    margin-right: auto;}
+
